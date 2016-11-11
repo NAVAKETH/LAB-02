@@ -89,6 +89,9 @@
 3. กดปุ่ม F5 เพื่อดูผลการทำงานของโปรแกรม
 4. บันทึกผล
 
+###จากผลการทดลองพบว่าเราสามารถสร้างรูปวงรีได้ โดยเกิดมาจากคำสั่งในบรรทัดที่65ที่เขียนไว้ว่า Ellipse(hdc, 10, 10, 200, 100);
+![](https://github.com/NAVAKETH/LAB-02/blob/master/3.PNG?raw=true)
+
 
 **รายละเอียดของ [Main Window Class](http://www.functionx.com/win32/Lesson01b.htm)**
 
